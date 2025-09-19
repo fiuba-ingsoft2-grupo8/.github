@@ -29,7 +29,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <img src="../img/felipe.png" width="120px" style="border-radius:50%"><br>
       <b>Ascencio Felipe Santino</b><br>
       <sub>🎓 Padrón: 110675</sub><br>
-      App Mobile / Documentación<br>
+      App Mobile<br>
       <sub>📧 fascencio@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
@@ -52,7 +52,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <img src="../img/martin.png" width="120px" style="border-radius:50%"><br>
       <b>Guerrero Martín</b><br>
       <sub>🎓 Padrón: 107774</sub><br>
-      Backoffice / Monitoreo<br>
+      Backoffice<br>
       <sub>📧 mguerrero@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
