@@ -19,7 +19,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
 <table>
   <tr>
     <td align="center" width="220px">
-      <img src="../img/joaquin.png" width="120px" style="border-radius:50%"><br>
+      <img src="../img/joaquin.jpeg" width="120px" style="border-radius:50%"><br>
       <b>Andresen Joaquín</b><br>
       <sub>🎓 Padrón: 102707</sub><br>
       Backend / AWS<br>
