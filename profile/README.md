@@ -42,7 +42,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
   </tr>
   <tr>
     <td align="center" width="220px">
-      <img src="../img/camila.png" width="120px" style="border-radius:50%"><br>
+      <img src="../img/cami.jpg" width="120px" style="border-radius:50%"><br>
       <b>General Camila</b><br>
       <sub>🎓 Padrón: 105552</sub><br>
       Backend / Diseño de UI<br>
