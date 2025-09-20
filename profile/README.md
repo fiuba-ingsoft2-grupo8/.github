@@ -56,9 +56,8 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <sub>📧 mguerrero@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
-      <img src="../img/nicolas.png" width="120px" style="border-radius:50%"><br>
+      <img src="../img/nicolas.jpg" width="120px" style="border-radius:50%"><br>
       <b>Nicolás Ramiro Sanchez</b><br>
-      <sub>🎓 Padrón: ??????</sub><br>
       Corrector<br>
       <sub>📧 nrsanchez@fi.uba.ar</sub>
     </td>
