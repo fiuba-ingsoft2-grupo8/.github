@@ -26,7 +26,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <sub>📧 jandresen@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
-      <img src="../img/felipe.png" width="120px" style="border-radius:50%"><br>
+      <img src="../img/felipe.jpg" width="120px" style="border-radius:50%"><br>
       <b>Ascencio Felipe Santino</b><br>
       <sub>🎓 Padrón: 110675</sub><br>
       App Mobile<br>
