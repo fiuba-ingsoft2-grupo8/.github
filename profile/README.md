@@ -22,7 +22,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <img src="../img/joaquin.jpeg" width="120px" style="border-radius:50%"><br>
       <b>Andresen Joaquín</b><br>
       <sub>🎓 Padrón: 102707</sub><br>
-      Backend / AWS<br>
+      DevOps / Backend<br>
       <sub>📧 jandresen@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
