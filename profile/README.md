@@ -5,11 +5,14 @@ Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de
 Aquí centralizamos el código y la documentación de nuestros proyectos.
 
 ## 📌 Información de la materia
-📍 Universidad de Buenos Aires – Facultad de Ingeniería  
-📚 Materia: Ingeniería de Software II  
+📍 Universidad de Buenos Aires – Facultad de Ingeniería
+
+📚 Materia: Ingeniería de Software II
+
 📅 Año: 2025
 
 ## 🎯 Objetivos de la Organización
+
 - Desarrollar la aplicación mobile 'Melodía' (Con su respectivo 'Backoffice' y todas los 'Microservicios' asociados) aplicando buenas prácticas de ingeniería.  
 - Fomentar el trabajo en equipo, la modularización y el versionado colaborativo.  
 - Documentar procesos, resultados y objetivos de manera clara y profesional.  
