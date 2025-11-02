@@ -1,12 +1,13 @@
 # 👨‍💻 FIUBA - Ingeniería de Software II - Grupo 8
 
-Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de Software II (FIUBA)**.  
+Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de Software II (FIUBA)**.
+
 Aquí centralizamos el código y la documentación de nuestros proyectos.
 
 ## 📌 Información de la materia
 📍 Universidad de Buenos Aires – Facultad de Ingeniería  
-📚 Cátedra Ingeniería de Software II  
-📅 Año 2025
+📚 Materia: Ingeniería de Software II  
+📅 Año: 2025
 
 ## 🎯 Objetivos de la Organización
 - Desarrollar la aplicación mobile 'Melodía' (Con su respectivo 'Backoffice' y todas los 'Microservicios' asociados) aplicando buenas prácticas de ingeniería.  
@@ -45,7 +46,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <img src="../img/cami.jpg" width="120px" style="border-radius:50%"><br>
       <b>General Camila</b><br>
       <sub>🎓 Padrón: 105552</sub><br>
-      Backend / Diseño de UI<br>
+      Backend / Diseño UX-UI<br>
       <sub>📧 cgeneral@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
