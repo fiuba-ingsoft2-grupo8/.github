@@ -1,6 +1,6 @@
 # 👨‍💻 FIUBA - Ingeniería de Software II - Grupo 8
 
-Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de Software II (FIUBA)**.
+Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de Software II - Rojas (FIUBA)**.
 
 Aquí centralizamos el código y la documentación de nuestros proyectos.
 
