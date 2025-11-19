@@ -61,7 +61,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
     </td>
     <td align="center" width="220px">
       <img src="../img/nicolas.jpg" width="120px" style="border-radius:50%"><br>
-      <b>Nicolás Ramiro Sanchez</b><br>
+      <b>Nicolás Ramiro Sánchez</b><br>
       Corrector<br>
       <sub>📧 nrsanchez@fi.uba.ar</sub>
     </td>
