@@ -4,7 +4,10 @@ Bienvenidos al espacio de trabajo del **Grupo 8** de la materia **Ingeniería de
 
 Aquí centralizamos el código y la documentación de nuestros proyectos.
 
+[👉 Link a la documentación del proyecto](https://fiuba-ingsoft2-grupo8.github.io/)
+
 ## 📌 Información de la materia
+
 📍 Universidad de Buenos Aires – Facultad de Ingeniería
 
 📚 Materia: Ingeniería de Software II
